@@ -1,0 +1,27 @@
+/* Eleni Zapata*/ 
+body
+{
+background-color: purple;
+color: teal;
+}
+nav
+{
+height: 6000px;
+width: 200px;
+float: left;
+padding: 5px;
+line-height: 30px;
+}
+footer
+{
+text-align: center;
+}
+#memeImage
+{margin-right: 200px;
+
+}
+header
+{
+text-align: center;
+
+}
